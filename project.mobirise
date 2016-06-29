@@ -9,7 +9,7 @@
       "title": "Mobirise"
     },
     "publishType": "local",
-    "publishPath": "file:///C:/Users/simon.spengel/Documents/privat/piwo/web/v1_1",
+    "publishPath": "file:///C:/Users/simon.spengel/Documents/privat/piwo/web/v1_2",
     "favicon": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-79787629-1', 'auto');\r\n  ga('send', 'pageview');\r\nga('set', 'anonymizeIp', true);\r\n\r\n</script>"
   },
@@ -161,7 +161,7 @@
           "headerAlign": "left",
           "title": "Die Brauer",
           "meta": "Ein solides Team aus 2 Laien und einem Profi.",
-          "text": "<p><b>Wir legen größten Wert darauf, dass unsere handgemachten Biere höchsten Qualitätsansprüchen genügen. Dies garantiert unser tägliches &nbsp;Qualitätsmanagement, in Form von Kostproben, vom ersten bis zum letzten Liter.</b></p><p><b><br></b></p>",
+          "text": "<p><b>Wir legen größten Wert darauf, dass unsere handgemachten Biere höchsten Qualitätsansprüchen genügen. Dies garantiert unser tägliches &nbsp;Qualitätsmanagement, auf Basis der Organoleptik, vom ersten bis zum letzten Liter.</b></p><p><b><br></b></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
@@ -212,7 +212,7 @@
             }
           },
           "title1": "Pils",
-          "caption1": "Das Durst'l Bräu Pils ist ein wohlschmeckendes, naturtrübes Helles mit ausgewogener Hopfenbetonung<br><br><br><br>- Alkoholgehalt: <b>ca. 5,1% Vol.</b><br>- Stammwürze: <b>12°P</b><br>- Vergärungsgrad:<b>&gt;81%</b><br>",
+          "caption1": "Das Durst'l Bräu Pils ist ein wohlschmeckendes, naturtrübes schlankes Pils mit feinst ausgewogener Hopfenbetonung<br><br><br><br>- Alkoholgehalt: <b>ca. 5,1% Vol.</b><br>- Stammwürze: <b>12°P</b><br>- Vergärungsgrad:<b>&gt;82%</b><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -227,7 +227,7 @@
             }
           },
           "title2": "Märzen",
-          "caption2": "Klassisches Märzen bei dem die Bittere gegenüber dem Pils in den Hintergrund rückt. Bernsteinfarben und malzbetont rettet uns dieses untergärige Bier durch den Sommer.<br><br>- Alkoholgehalt: <b>ca. 5,6% Vol.</b><br>- Stammwürze: <b>13,3°P</b><br>- Vergärungsgrad:<b> &gt;80%</b><br>",
+          "caption2": "Klassisches Märzen wie man es von früher kennt. Stärker eingebraut unter Verwendung von einem geringen Anteil an Karamalz. Aromahopfen aus der Hallertau runden dieses Frühjahrsbier ab.<br><br>- Alkoholgehalt: <b>ca. 5,6% Vol.</b><br>- Stammwürze: <b>13,3°P</b><br>- Vergärungsgrad:<b> &gt;80%</b><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -242,7 +242,7 @@
             }
           },
           "title3": "Weizen",
-          "caption3": "Ein absoluter Klassiker. Die schöne leicht dunkle Färbung und fruchtige Hefenote machen unser bisher einziges obergäriges Bier zu einem besonderen Genuss<br><br>- Alkoholgehalt: <b>ca. 5,3% Vol.</b><br>- Stammwürze: ca. <b>12,5°P</b><br>",
+          "caption3": "Frische pur. <br>Die schöne leicht dunkle Färbung und fruchtige Hefenote machen unser bisher einziges obergäriges Bier zu einem besonderen Genuss<br><br><br>- Alkoholgehalt: <b>ca. 5,3% Vol.</b><br>- Stammwürze: ca. <b>12,8°P</b><br>- Vergärungsgrad: <b>&gt;79%<br></b><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -257,7 +257,7 @@
             }
           },
           "title4": "Leichtes",
-          "caption4": "Ein Bier mit geringem Alkoholgehalt jedoch vollem Geschmackskörper. <br><br>Der Durst'l Löscher - <br>Perfekt für die heiße Jahreszeit<br><br>- Alkoholgehalt: <b>ca. 3% Vol.</b><br>- Stammwürze: <b>8,5°P</b><br>- Endvergärung: ca. <b>2,5°P</b><br>",
+          "caption4": "Ein Bier mit geringem Alkoholgehalt und trotzdem vollem Geschmack. <br><br>Der Durst'l Löscher - <br>Perfekt für die heiße Jahreszeit<br><br>- Alkoholgehalt: <b>ca. 2,8% Vol.</b><br>- Stammwürze: <b>8,4°P</b><br>- Vergärungsgrad: <b>&gt;73%</b><br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -334,7 +334,7 @@
           },
           "title": "Die Geschichte",
           "meta": "Braustätte seit 1840&nbsp;<b>&nbsp;mit Pause</b>",
-          "text": "<p><b>Ende 2014 haben sich ein Elektrotechniker, eine Industriekauffrau und ein Braumeister bei einem feuchtfröhlichen Abend in Rinklingen gefunden und beschlossen eigenes Bier zu brauen. Der Standort selbst hat eine Biergeschichte, da hier im 19. Jarhundert 2 Brauereien ansässig waren.</b></p>",
+          "text": "<p><b>Ende 2013 haben sich 3 Bierliebhaber an einem feuchtfröhlichen Abend getroffen und beschlossen, Rinklingen braucht wieder eigenes Bier. Der Standort selbst hat eine Biergeschichte, da hier im 19. Jarhundert 2 Brauereien ansässig waren. Geschichte verpflichtet und so wurde auf historischem Grund Braukultur wiederbelebt und die Durst'l Bräu ausgerufen.</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
